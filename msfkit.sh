@@ -1,4 +1,5 @@
 #!/bin/sh
+#created by Sh_DEE or Xro0T
 clear
 echo " __  __ ____  _____ _  ___ _  
 |  \/  / ___||  ___| |/ (_) |_ 
